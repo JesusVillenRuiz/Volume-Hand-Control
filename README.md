@@ -81,7 +81,33 @@ import cv2
 
 -Click on "Pyhton interpreter", the same on the "+" button and look for each of the three mentioned libraries, mediapipe, opencv and pycaw, and click on install package.
 
+Then you can check it has been installed correctly.
+
+![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/HowToInstall.png?raw=true)
 
 ## Run the project
 
 Just run the VolumeHandControlAdvance.py file.
+
+## RESULTS
+
+### Start Menu
+
+![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/Inicio.png?raw=true) 
+
+### Mouse mode
+
+If you join your index finger and middle finger, a red circle will appear. This means that you are left clicking, simulating a mouse (Your hand is now a computer mouse!), if you put the red circle on top of any button, it will do its functionality.
+
+![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/MouseMode.png?raw=true) 
+![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/MouseMode.png?raw=true) 
+
+### Control the volume of your PC without buttons!
+
+If you lower the last three fingers of your hand a green circle will appear between your thumb and index finger. Now you are modifying the volume of your computer based on the distance between these fingers.
+
+You can adjust the volume without lowering your fingers and simply lower them to set it.
+
+![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/VolumeControl.png?raw=true) 
+
+
