@@ -100,7 +100,6 @@ Just run the VolumeHandControlAdvance.py file.
 If you join your index finger and middle finger, a red circle will appear. This means that you are left clicking, simulating a mouse (Your hand is now a computer mouse!), if you put the red circle on top of any button, it will do its functionality.
 
 ![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/MouseMode.png?raw=true) 
-![alt text](https://github.com/JesusVillenRuiz/Volume-Hand-Control/blob/f9524098655f5ed15e866e5a8ebca153ea0ae597/Examples/MouseMode.png?raw=true) 
 
 ### Control the volume of your PC without buttons!
 
