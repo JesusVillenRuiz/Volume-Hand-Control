@@ -5,7 +5,7 @@ It is my final project for the subject Computer Vision. This program will track 
 
 MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
 
-You can click here and see Mediapipe's web : https://mediapipe.dev/
+You can click [here](https://mediapipe.dev/) and see Mediapipe's web.
 
 ## OpenCv
 
@@ -15,7 +15,7 @@ OpenCV (Open Source Computer Vision Library) is an open source computer vision a
 
 Python Core Audio Windows Library, working for both Python2 and Python3.
 
-You can visit the github of it here : https://github.com/AndreMiras/pycaw
+You can visit the github of it [here](https://github.com/AndreMiras/pycaw).
 
 ## Installation
 
@@ -29,7 +29,7 @@ pip install pycaw
 pip install opencv-python
 ```
 
-If installing opencv fails, here you hace a guide of them: https://github.com/opencv/opencv-python/blob/master/README.md
+If installing opencv fails, [here](https://github.com/opencv/opencv-python/blob/master/README.md) you have a guide of them.
 
 ## Usage 
 ### Mediapipe
